@@ -1,0 +1,204 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background: white;
+}
+nav i{
+    color: blue;
+    font-size: 20px;
+    margin: 10px 0px 0px 30px;
+}
+.p{
+    padding: 10px 0px 10px 50px;
+    position: absolute;
+}
+.collec{
+    display: flex;
+    list-style: none;
+}
+.qwer{
+    padding: 10px 0px 0px 1000px;
+    color: blue;
+}
+.qwe{
+    padding: 10px 0px 0px 50px;
+}
+.qw{
+    padding: 10px 0px 0px 50px;
+}
+
+.q{
+    padding: 10px 0px 0px 50px;
+}
+.main{
+    width: 1100px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 20px auto;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.box{
+    width: 350px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 24px 0px 0px 24px;
+    padding: 0px 0px 0px 20px;
+}
+
+.bo{
+    width: 350px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.b{
+    width: 350px;
+    height: 50px;
+    border: 1px solid gray;
+}
+.box i{
+    padding: 15px 0px 0px 0px;
+}
+select{
+    margin: 15px 0px 0px 20px;
+    border: none;
+    margin: auto;
+}
+
+.vb{
+    padding: 0px 0px 0px 10px;
+}
+.as{
+    color: black;
+}
+.btn{
+   background: white; 
+    border-radius: 40px;
+    width: 100px;
+    height: 30px;
+margin: 0px 0px 0px 220px;
+border: 1px solid black;
+}
+.bt{
+    background: white; 
+     border-radius: 40px;
+     width: 100px;
+     height: 30px;
+ margin: 0px 0px 0px 20px;
+ border: 1px solid black;
+ }
+ .bop{
+    background: white; 
+     border-radius: 40px;
+     width: 150px;
+     height: 30px;
+ margin: 0px 0px 0px 20px;
+ border: 1px solid black;
+ }
+.yut{
+    width: 15px;
+    height: 15px;
+    background: white;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.za{
+    margin: 0px 0px 0px 30px;
+}
+h5{
+    display: inline;
+    color: rgb(61, 58, 58);
+}
+.mono{
+    width: 800px;
+    height: 30px;
+    
+    
+}
+.mon{
+    width: 300px;
+    height: 30px;
+    
+    
+}
+.pok{
+    font-size: 12px;
+    padding: 10px 0px 0px 0px;
+}
+
+.bag{
+    width: 1100px;
+    height: 40px;
+    
+display: flex;
+margin: 20px auto;
+}
+.kino{
+    width: 1100px;
+    height: 300px;
+    
+    margin: 20px auto;
+    display: flex;
+}
+.loki{
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+    margin-right: 15px;
+    position: relative;
+    
+}
+.qani{
+    padding: 15px 0px 0px 15px;
+}
+
+.qan{
+    padding: 0px 0px 0px 15px;
+}
+.qa{
+    padding: 0px 0px 20px 280px;
+    font-size: 13px;
+    position: absolute;
+    top: 22px;
+}
+.alo{
+    font-size: 60px;
+    padding: 0px 0px 0px 15px;
+    font-family: qalay;
+}
+.al{
+    font-family: asad;
+    font-size: 45px;
+    padding: 0px 0px 0px 15px;
+}
+.alop{
+    font-family: azx;
+    font-size: 45px;
+    padding: 0px 0px 0px 15px;
+}
+.alog{
+    font-family: req;
+    font-size: 45px;
+    padding: 0px 0px 0px 15px;
+}
+.alos{
+    font-family: bazan;
+    font-size: 60px;
+    padding: 0px 0px 0px 15px;
+}
+.alij{
+    font-size: 45px;
+    font-family: aql;
+    padding: 0px 0px 0px 15px;
+}
